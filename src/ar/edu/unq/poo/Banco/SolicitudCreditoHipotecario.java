@@ -3,7 +3,7 @@ package ar.edu.unq.poo.Banco;
 public class SolicitudCreditoHipotecario extends SolicitudCredito {
 	private Propiedad garantia;
 
-	public SolicitudCreditoHipotecario(Cliente cliente,  Propiedad garantia) {
+	public SolicitudCreditoHipotecario(Cliente cliente,  Propiedad garantia) { //solicitud
 		super(cliente);
 		this.garantia= garantia;
 	}

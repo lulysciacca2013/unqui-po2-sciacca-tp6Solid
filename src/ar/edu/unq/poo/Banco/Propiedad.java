@@ -6,7 +6,7 @@ public class Propiedad {
 	private String direccion;
 	private double valorFiscal;
 	
-	public Propiedad(String des,String dire,double valorFiscal) {
+	public Propiedad(String des,String dire,double valorFiscal) { //propiedad
 		this.descripcion=des;
 		this.direccion=dire;
 		this.valorFiscal=valorFiscal;

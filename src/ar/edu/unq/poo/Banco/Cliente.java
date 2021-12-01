@@ -8,7 +8,7 @@ public class Cliente {
 	private double sueldoNetoMensual;
 	
 
-	public Cliente(String nombre,String ape,String dire, int edad, double sueldo ) {
+	public Cliente(String nombre,String ape,String dire, int edad, double sueldo ) { //cliente
 		this.nombre=nombre;
 		this.apellido= ape;
 		this.direccion= dire;

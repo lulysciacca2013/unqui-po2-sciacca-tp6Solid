@@ -9,7 +9,7 @@ public abstract class Banco {
 	
 	
 	public Banco() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public void agregarSolicitudCreditoPersonal(Cliente cliente) {

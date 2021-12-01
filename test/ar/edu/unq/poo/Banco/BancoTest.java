@@ -8,7 +8,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 class BancoTest {
-	private Banco banco;
+	private Banco banco; // banco
 	private ArrayList<Cliente> clientes;
 	private ArrayList<SolicitudCredito> solicitud;
 	private Cliente cliente1;

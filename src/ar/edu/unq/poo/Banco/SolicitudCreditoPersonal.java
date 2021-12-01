@@ -2,7 +2,7 @@ package ar.edu.unq.poo.Banco;
 
 public class SolicitudCreditoPersonal extends SolicitudCredito {
 
-	public SolicitudCreditoPersonal(Cliente cliente) {
+	public SolicitudCreditoPersonal(Cliente cliente) { //solicitud
 		super(cliente);
 		
 	

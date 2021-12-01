@@ -6,7 +6,7 @@ public abstract class SolicitudCredito {
 	protected double monto;
 	protected int plazoMeses;
 	
-	public SolicitudCredito(Cliente cliente) {
+	public SolicitudCredito(Cliente cliente) { //solicitud
 		this.cliente=cliente;
 		
 	}
